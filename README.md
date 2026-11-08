@@ -1,2 +1,6 @@
-# Group-14-Survey-Distance-Calculator
-A Python-based survey coordinate distance calculator using PNEZD data.
+GROUP 14 MEMBERS
+EPENYU KENNETH - 25/1/324/D/2098
+NAFULA KEREN - 25/1/324/D/1584
+KASULE JOEL - 25/1/324/D/539
+NAKANWANGI CATHERINE - 25/1/324/D/1664
+
